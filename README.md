@@ -14,5 +14,10 @@ cd -
 #why
 
 - use vim with markdown
+	- why vim
+		- my self skill
 - auto commit to github
+	- why github
+		- backup, branch
 - will use branch feature with github and writing
+
