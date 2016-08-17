@@ -2,7 +2,7 @@
 
 
 x=$((RANDOM%200))
-if [ "$x" -gt 100 ];
+if [ "$x" -lt 1000 ];
 then
 
 	git add *
