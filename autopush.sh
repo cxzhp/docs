@@ -2,7 +2,7 @@
 
 
 x=$((RANDOM%200))
-if [ "$x" -lt 1000 ];
+if [ "$x" -lt 100 ];
 then
 	git add *
 	git commit -a -m "auto commit"
